@@ -21,7 +21,7 @@ With the help of this module the teachers can share content with students and th
 
 ####	Existing Systems v/s nexusUSICT
 Existing systems that perform similar tasks are engrade.com, Google Classroom, courseoff.com etc. The common restriction among them is that the customisation is limited. Most of them are also not free for use and also provide a worn out interface. 
-This system is open source and offer control to users, plethora of opportunities for developers(possibly students themselves) to contribute for the betterment of system continuously. 
+This system is open source and offer control to users, plethora of opportunities for developers (possibly students themselves) to contribute for the betterment of system continuously. 
 Being open source, the system can be undertaken for redesign by institutions and can be modified as their requirements and specific use cases before deploying this system for their classroom, this makes this system deployable practically for any university and college.
 
 ## Dive into OLMS
