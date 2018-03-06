@@ -28,7 +28,7 @@ Being open source, the system can be undertaken for redesign by institutions and
 The OLMS has two modules - for teacher and other one for student. The web based module is where teachers can log in and manage the dashboard. The Android based module is where students can log in and get access to classroom content provided by their instructors.
 
 
-###Teacher Module
+### Teacher Module
 
 The teacher module is made using the following web technologies :-
  - AngularJS 
@@ -38,7 +38,7 @@ The teacher module is made using the following web technologies :-
  - jQuery
  - Firebase WEB application interface
 	
-###Student Module
+### Student Module
  Following technologies were used in making Student Module :-
  - Android Studio with SDKs 
  - Firebase Libraries
